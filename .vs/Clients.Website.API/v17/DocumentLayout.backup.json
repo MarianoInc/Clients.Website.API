@@ -1,12 +1,275 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\domain\\viewmodels\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\domain\\viewmodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|solutionrelative:domain\\viewmodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\infrastructure\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\infrastructure\\services\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF879D93-6312-40DE-9447-913C9DB29DE3}|Clients.Website.API\\Clients.Website.API.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\clients.website.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF879D93-6312-40DE-9447-913C9DB29DE3}|Clients.Website.API\\Clients.Website.API.csproj|solutionrelative:clients.website.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F556013D-4E72-40AB-B721-7972814E5C6F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\infrastructure\\context\\clientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\clientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\infrastructure\\dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\infrastructure\\dal\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dal\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\infrastructure\\services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\infrastructure\\services\\interfaces\\iclientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47ECD09-1678-4BBE-A67F-2AC43EB6DA2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\interfaces\\iclientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF879D93-6312-40DE-9447-913C9DB29DE3}|Clients.Website.API\\Clients.Website.API.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\clients.website.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF879D93-6312-40DE-9447-913C9DB29DE3}|Clients.Website.API\\Clients.Website.API.csproj|solutionrelative:clients.website.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A30FE2-1132-4F57-B53A-DF12E9AE5C52}|Tests\\Tests.csproj|d:\\proyectos\\craftlab\\clients\\website.api\\clients.website.api\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A30FE2-1132-4F57-B53A-DF12E9AE5C52}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\ViewModels\\Client.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Client.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\ViewModels\\Client.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:48:56.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\ViewModels\\Login.cs",
+              "RelativeDocumentMoniker": "Domain\\ViewModels\\Login.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\ViewModels\\Login.cs",
+              "RelativeToolTip": "Domain\\ViewModels\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:48:25.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\DAL\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DAL\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\DAL\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\DAL\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:10:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientDBContext.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Context\\ClientDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ClientDBContext.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Context\\ClientDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ClientDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:06:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:01:15.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Client.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "Domain\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:04:50.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T21:58:15.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Clients.Website.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Clients.Website.API\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Clients.Website.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Clients.Website.API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T21:51:44.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Services\\ClientsService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ClientsService.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Services\\ClientsService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ClientsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:12:32.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\LoginService.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Services\\LoginService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:12:56.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\DAL\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DAL\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\DAL\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\DAL\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:11:19.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Services\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Interfaces\\ILoginService.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Services\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Interfaces\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:13:14.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClientsService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Services\\Interfaces\\IClientsService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Interfaces\\IClientsService.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Infrastructure\\Services\\Interfaces\\IClientsService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Interfaces\\IClientsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T22:12:16.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Clients.Website.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Clients.Website.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Clients.Website.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Clients.Website.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T21:50:26.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Proyectos\\CraftLab\\Clients\\WebSite.API\\Clients.Website.API\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T21:42:19.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
