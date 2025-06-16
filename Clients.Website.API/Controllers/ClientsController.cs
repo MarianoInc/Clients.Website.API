@@ -33,7 +33,7 @@ namespace Clients.Website.API.Controllers
         public async Task<IActionResult> Get(Guid id)
         {
             var client = await _clientsService.GetByIdAsync(id);
-            return client is null ? NotFound() : Ok(new WebApiResponse<Client> { IsSuccess = false, Message = "", Value = client });
+            return client is null ? NotFound() : Ok(new WebApiResponse<Client> { IsSuccess = client != null, Message = "", Value = client }); 
         }
 
         [HttpPost]
